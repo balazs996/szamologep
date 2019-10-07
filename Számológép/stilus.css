@@ -1,0 +1,7 @@
+fieldset{
+    width: 35%;
+    border-color: crimson;
+    background-color: rgba(148, 148, 148, 0.993);
+    border-style: double;
+    margin: auto;
+}
